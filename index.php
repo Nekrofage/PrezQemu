@@ -62,6 +62,8 @@
                   <?php include("capture_ecran.php"); ?>
                   
                   <?php include("ze_end.php"); ?>
+                  
+                  <?php include("reseau.php"); ?>
 			</div>
 
 		</div>
