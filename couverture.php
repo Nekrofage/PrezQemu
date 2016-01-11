@@ -1,5 +1,5 @@
 				<section>
-					<h1>Présentation de Qemu</h1>
+					<h1>Présentation de</h1>
 					<p>
                         <img src="image/Qemu_logo.svg.png" border="0"><br/>
                         <br/>

@@ -3,7 +3,7 @@
 					<p>
 <ul>
     <li>Site officiel : http://qemu.org</li>
-    <li></li>
+    <li>Rock Star Ninja : http://rockstaninja.info</li>
     <li></li>
     <li></li>
     <li></li>

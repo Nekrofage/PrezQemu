@@ -44,18 +44,43 @@
 			    <?php include("couverture.php"); ?>
 
 			    <?php include("sommaire.php"); ?>
-
-                <?php include("introduction.php"); ?>
+                
+                <section>
+                    <?php include("introduction.php"); ?>
 		    
-			    <?php include("presentation.php"); ?>
+			        <?php include("presentation.php"); ?>
 			    			    
-			    <?php include("avantage.php"); ?>			    			    
-			    <?php include("inconvenient.php"); ?>			    			    
-			    			    
+			        <?php include("avantage.php"); ?>			    			    
+			    
+			        <?php include("inconvenient.php"); ?>			    			    
+			    </section>			    
+                
+                <section>
                 <?php include("virtualisation_materiel.php"); ?>
+                
+                <?php include("activation_virtualisation_materiel.php"); ?>
+                </section>
+                
+                <section>
+                			<section>
+					         <h2>Installation de Qemu</h2>
+					            <p>
+                        
+	                            </p>
+				            </section>
 
-                <?php include("installation_qemu.php"); ?>
-
+                    <?php include("installation_qemu.php"); ?>
+                </section>
+                
+                  <section>
+                  
+                			<section>
+					         <h2>Installation de la distribution</h2>
+					            <p>
+                        
+	                            </p>
+				            </section>                  
+                  
                 <?php include("telechargement_distribution.php"); ?>
                 
                  <?php include("creation_image_disque.php"); ?>
@@ -65,14 +90,36 @@
                  <?php include("lancement.php"); ?>
                  
                   <?php include("capture_ecran.php"); ?>
+                  </section>
                   
                   <?php include("ze_end.php"); ?>
 
                   <?php include("lien.php"); ?>
              
-                  <?php include("biblio.php"); ?>
+                  <section>
+                  
+                			<section>
+					         <h2>Bibliographie</h2>
+					            <p>
+                        
+	                            </p>
+				            </section>                     
+                  <?php include("biblio_mag.php"); ?>
+                  <?php include("biblio_livre.php"); ?>
+                   </section>
+                   
+                                    
+                    <section>
+                                    			<section>
+					         <h2>Réseau</h2>
+					            <p>
+                        
+	                            </p>
+				            </section>        
+                  <?php include("reseau_paquetage.php"); ?>
 
                   <?php include("reseau.php"); ?>
+                   </section>
 			</div>
 
 		</div>
