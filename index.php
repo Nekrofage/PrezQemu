@@ -47,10 +47,21 @@
 			    			    
 			    <?php include("sommaire.php"); ?>
 
+                <?php include("virtualisation_materiel.php"); ?>
 
+                <?php include("installation_qemu.php"); ?>
 
-
-
+                <?php include("telechargement_distribution.php"); ?>
+                
+                 <?php include("creation_image_disque.php"); ?>
+                 
+                 <?php include("installation_distribution.php"); ?>
+                 
+                 <?php include("lancement.php"); ?>
+                 
+                  <?php include("capture_ecran.php"); ?>
+                  
+                  <?php include("ze_end.php"); ?>
 			</div>
 
 		</div>
