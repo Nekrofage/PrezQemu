@@ -1,9 +1,9 @@
 				<section>
-					<h2>Présentation</h2>
+					<h2>Inconvénients</h2>
 					<p>
 <ul>
-    <li>Emulateur de matériel</li>
-    <li>Simule une architecture</li>
+    <li> plus lent que le système hôte</li>
+    <li></li>
     <li></li>
     <li></li>
     <li></li>

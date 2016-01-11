@@ -1,9 +1,8 @@
 				<section>
-					<h2>Présentation</h2>
+					<h2>Liens</h2>
 					<p>
 <ul>
-    <li>Emulateur de matériel</li>
-    <li>Simule une architecture</li>
+    <li>Site officiel : http://qemu.org</li>
     <li></li>
     <li></li>
     <li></li>

@@ -1,7 +1,8 @@
 				<section>
-					<h1>Qemu</h1>
-					<h3></h3>
+					<h1>Présentation de Qemu</h1>
 					<p>
-						<small>Created by <a href="http://rockstarninja.info">Le Sanglier des Ardennes</a></small>
+                        <img src="image/Qemu_logo.svg.png" border="0"><br/>
+                        <br/>
+						<small>Par <a href="http://rockstarninja.info">Le Sanglier des Ardennes</a></small>
 					</p>
 				</section>

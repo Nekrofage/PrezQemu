@@ -42,11 +42,16 @@
 			<div class="slides">
 			
 			    <?php include("couverture.php"); ?>
-			    
-			    <?php include("presentation.php"); ?>
-			    			    
+
 			    <?php include("sommaire.php"); ?>
 
+                <?php include("introduction.php"); ?>
+		    
+			    <?php include("presentation.php"); ?>
+			    			    
+			    <?php include("avantage.php"); ?>			    			    
+			    <?php include("inconvenient.php"); ?>			    			    
+			    			    
                 <?php include("virtualisation_materiel.php"); ?>
 
                 <?php include("installation_qemu.php"); ?>
@@ -62,7 +67,11 @@
                   <?php include("capture_ecran.php"); ?>
                   
                   <?php include("ze_end.php"); ?>
-                  
+
+                  <?php include("lien.php"); ?>
+             
+                  <?php include("biblio.php"); ?>
+
                   <?php include("reseau.php"); ?>
 			</div>
 
