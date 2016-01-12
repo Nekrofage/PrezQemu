@@ -2,14 +2,11 @@
 					<h2>Présentation</h2>
 					<p>
 <ul>
-    <li>Emulateur de matériel</li>
-    <li>Simule une architecture</li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+<li>Emulation de matériel : Architecture X86/PPC/Arm/Sparc</li>
+<li>Emulation de microprocesseur</li>
+<li>Virtualisation de système d'exploitation via l'hyperviseur KVM</li>
 </ul>
+
 	                </p>
 				</section>
 

@@ -49,10 +49,14 @@
                     <?php include("introduction.php"); ?>
 		    
 			        <?php include("presentation.php"); ?>
-			    			    
+		
+			        <?php include("terminologie.php"); ?>
+			            			    
 			        <?php include("avantage.php"); ?>			    			    
 			    
 			        <?php include("inconvenient.php"); ?>			    			    
+
+                    <?php include("fonctionnement.php"); ?>			    
 			    </section>			    
                 
                 <section>

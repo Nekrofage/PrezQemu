@@ -1,5 +1,5 @@
 				<section>
-					<h2>Bibliographie : Livre</h2>
+					<h2>Livre</h2>
 					<p>
 <ul>
 <li>

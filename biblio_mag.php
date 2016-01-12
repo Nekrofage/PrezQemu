@@ -1,5 +1,5 @@
 				<section>
-					<h2>Bibliographie : Magazine</h2>
+					<h2>Magazine</h2>
 					<p>
 <ul>
 <li>
