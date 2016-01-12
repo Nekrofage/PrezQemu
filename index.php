@@ -120,6 +120,7 @@
 	                            </p>
 				            </section>                     
                   <?php include("biblio_mag.php"); ?>
+                  <?php include("biblio_mag1.php"); ?>
                   <?php include("biblio_livre.php"); ?>
                    </section>
                    
