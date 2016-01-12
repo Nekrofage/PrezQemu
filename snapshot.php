@@ -3,7 +3,7 @@
 					<p>
 					Conversion de l’image au format 'raw' vers une image au format 'qcow2' :
 <pre><code class="hljs" data-trim contenteditable>
-[~/VIRTUALISATION/PuppyTahr/vhda] ➔ qemu-img create -b vhda.img -f qcow2 vhda.qcow2
+[~/QEMU] ➔ qemu-img create -b vhda.img -f qcow2 vhda.qcow2
 </code></pre>				
 	    
 					</p>

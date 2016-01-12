@@ -3,7 +3,7 @@
 					<p>
 					Charger un ancien instantané :
 <pre><code class="hljs" data-trim contenteditable>
-[~/VIRTUALISATION/PuppyTahr/vhda] ➔ qemu-img snapshot -a snapshot_160104_2040 vhda.qcow2
+[~/QEMU] ➔ qemu-img snapshot -a snapshot_160104_2040 vhda.qcow2
 </code></pre>				
 	              
 					</p>
