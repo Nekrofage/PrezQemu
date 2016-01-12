@@ -43,7 +43,7 @@
 			
 			    <?php include("couverture.php"); ?>
 
-			    <?php include("sommaire.php"); ?>
+			    <?php //include("sommaire.php"); ?>
                 
                 <section>
                     <?php include("introduction.php"); ?>
@@ -56,9 +56,20 @@
 			    </section>			    
                 
                 <section>
-                <?php include("virtualisation_materiel.php"); ?>
+
+                			<section>
+					         <h2>Virtualisation matériel</h2>
+					            <p>
+                        
+	                            </p>
+				            </section>
+
+
+
+                   <?php include("virtualisation_materiel.php"); ?>
                 
-                <?php include("activation_virtualisation_materiel.php"); ?>
+                    <?php include("activation_virtualisation_materiel.php"); ?>
+
                 </section>
                 
                 <section>
@@ -110,7 +121,7 @@
                    
                                     
                     <section>
-                                    			<section>
+                   			<section>
 					         <h2>Réseau</h2>
 					            <p>
                         
@@ -120,6 +131,26 @@
 
                   <?php include("reseau.php"); ?>
                    </section>
+
+
+                    <section>
+                   			<section>
+					         <h2>Instantané/Snapshot</h2>
+					            <p>
+                        
+	                            </p>
+				            </section>        
+                  <?php include("snapshot.php"); ?>
+                  <?php include("snapshot1.php"); ?>
+                  <?php include("snapshot2.php"); ?>
+                 <?php include("snapshot3.php"); ?>
+                   </section>
+
+
+                 <?php include("qcow2.php"); ?>
+
+
+
 			</div>
 
 		</div>
