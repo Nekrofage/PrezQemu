@@ -57,6 +57,8 @@
 			        <?php include("inconvenient.php"); ?>			    			    
 
                     <?php include("fonctionnement.php"); ?>			    
+
+                    <?php include("vm_conteneur.php"); ?>			    
 			    </section>			    
                 
                 <section>
